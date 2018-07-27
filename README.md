@@ -26,13 +26,13 @@
 
 ?: How do we handle conceptual issues?
 
-(X) User videos, teach the concept, document the issue, and escalate if necessary
+(X) Use videos, teach the concept, document the issue, and escalate if necessary
 ( ) Use the Socratic method to teach the concept
 ( ) Ask the student to explain the concept they're struggling with
 
 ?: How do we handle unsupported questions? (check all that apply)
 
-[ ] Tell the student we can't help them
+[ ] Tell the student we don't supprt that question
 [ ] If it's an assessment: videos, study groups, 1:1 support, and DMing the Section Lead
 [ ] Admission or billing: refer them to the admissions department
 [X] All of the above
