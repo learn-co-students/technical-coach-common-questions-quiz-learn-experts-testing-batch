@@ -33,7 +33,7 @@
 ?: How do we handle unsupported questions? (check all that apply)
 
 [ ] Tell the student we don't supprt that question
-[ ] If it's an assessment: videos, study groups, 1:1 support, and DMing the Section Lead
+[ ] If it's an assessment: refer to instructional videos & study groups
 [ ] Admission or billing: refer them to the admissions department
 [X] All of the above
 
