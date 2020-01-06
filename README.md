@@ -8,14 +8,14 @@
 ?: How do we handle Learn/IDE/Workflow Issues?
 
 (X) Solve the problem for the student
-( ) Teach the student how to solve the error 
+( ) Teach the student how to solve the error
 ( ) Have the student restart their computer
 
 ?: How do we handle issues where the lab tests don't run?
 
 (X) Identify the root cause, then solve the problem appropriately
 ( ) Always solve the problem for the student
-( ) Tell them to work on the lab more 
+( ) Tell them to work on the lab more
 
 ?: What are some common examples of tests running, but the student can't fix the errors?
 
@@ -32,8 +32,8 @@
 
 ?: How do we handle unsupported questions? (check all that apply)
 
-[ ] Tell the student we don't supprt that question
-[ ] If it's an assessment: refer to instructional videos & study groups
+[ ] Tell the student we don't support that question
+[ ] If it's an assessment: refer to project support contact and suggest resources such as instructional videos & study groups
 [ ] Admission or billing: refer them to the admissions department
 [X] All of the above
 
